@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #098f81;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #bdcb46;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m0,27.29V4.12c0-.45.21-.89.59-1.21L3.41.5c.38-.32.88-.5,1.41-.5h20.34c.53,0,1.04.18,1.41.5l2.83,2.41c.38.32.59.75.59,1.21v23.18c0,.94-.9,1.71-2,1.71H2C.9,29,0,28.24,0,27.29ZM26,3.41l-2-1.71H6l-2,1.71h22Z"/>
+  <polyline class="cls-1" points="9 17.73 11.68 17.73 14.13 21.78 19.5 13 22.54 17.39 28.24 17.39"/>
+  <polyline class="cls-1" points="8.77 23.91 11.45 23.91 13.91 27.96 19.27 19.18 22.31 23.57 28.02 23.57"/>
+</svg>

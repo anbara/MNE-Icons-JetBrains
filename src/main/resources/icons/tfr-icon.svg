@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 29">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-width: 0px;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-3 {
+        fill: #795548;
+      }
+
+      .cls-4 {
+        fill: #1976d2;
+      }
+
+      .cls-5 {
+        fill: #2196f3;
+      }
+
+      .cls-6 {
+        fill: #d32f2f;
+      }
+
+      .cls-7 {
+        fill: #bbdefb;
+      }
+
+      .cls-8 {
+        fill: #64b5f6;
+      }
+
+      .cls-9 {
+        fill: #f44336;
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        fill: #ffcdd2;
+      }
+
+      .cls-12 {
+        fill: #ff5252;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-2" x="9" y="14" width="20.1" height="13.97"/>
+    </clipPath>
+  </defs>
+  <path class="cls-3" d="m0,27.29V4.12c0-.45.21-.89.59-1.21L3.41.5c.38-.32.88-.5,1.41-.5h20.34c.53,0,1.04.18,1.41.5l2.83,2.41c.38.32.59.75.59,1.21v23.18c0,.94-.9,1.71-2,1.71H2C.9,29,0,28.24,0,27.29ZM26,3.41l-2-1.71H6l-2,1.71h22Z"/>
+  <g id="figure_1" data-name="figure 1">
+    <g id="patch_1" data-name="patch 1">
+      <path class="cls-10" d="m9,27.97h20.1v-13.97H9v13.97Z"/>
+    </g>
+    <g id="axes_1" data-name="axes 1">
+      <g id="patch_2" data-name="patch 2">
+        <g class="cls-1">
+          <path class="cls-5" d="m9,27.97h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_3" data-name="patch 3">
+        <g class="cls-13">
+          <path class="cls-9" d="m14.02,27.97h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_4" data-name="patch 4">
+        <g class="cls-16">
+          <path class="cls-4" d="m19.05,27.97h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_5" data-name="patch 5">
+        <g class="cls-15">
+          <path class="cls-7" d="m24.07,27.97h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_6" data-name="patch 6">
+        <g class="cls-14">
+          <path class="cls-8" d="m9,24.48h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_7" data-name="patch 7">
+        <g class="cls-20">
+          <path class="cls-7" d="m14.02,24.48h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_8" data-name="patch 8">
+        <g class="cls-19">
+          <path class="cls-5" d="m19.05,24.48h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_9" data-name="patch 9">
+        <g class="cls-17">
+          <path class="cls-8" d="m24.07,24.48h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_10" data-name="patch 10">
+        <g class="cls-18">
+          <path class="cls-11" d="m9,20.99h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_11" data-name="patch 11">
+        <g class="cls-21">
+          <path class="cls-4" d="m14.02,20.99h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_12" data-name="patch 12">
+        <g class="cls-25">
+          <path class="cls-12" d="m19.05,20.99h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_13" data-name="patch 13">
+        <g class="cls-27">
+          <path class="cls-6" d="m24.07,20.99h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_14" data-name="patch 14">
+        <g class="cls-24">
+          <path class="cls-5" d="m9,17.49h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_15" data-name="patch 15">
+        <g class="cls-23">
+          <path class="cls-12" d="m14.02,17.49h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_16" data-name="patch 16">
+        <g class="cls-22">
+          <path class="cls-11" d="m19.05,17.49h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+      <g id="patch_17" data-name="patch 17">
+        <g class="cls-26">
+          <path class="cls-7" d="m24.07,17.49h5.02v-3.49h-5.02v3.49Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
